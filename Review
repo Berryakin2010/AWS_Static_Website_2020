@@ -1,0 +1,44 @@
+#Congratulations!!!
+#You had completed this project:tada: Keep it up:thumbsup:
+
+#Website Files
+#The S3 bucket is visible in the AWS Management console.
+
+#Awesome!!
+
+#Nice work with S3 bucket
+
+#The student has submitted a screenshot showing all the website files uploaded to the newly created S3 bucket.
+
+#Great Work!!
+
+#Screen Shots show your understanding of the project:star2:
+
+#The S3 bucket is configured to support static website hosting.
+
+#Nice!!!
+
+#The bucket is configured properly:thumbsup:
+
+#The bucket should allow public access. The S3 bucket has an IAM bucket policy that makes the bucket contents publicly accessible.
+
+#Awesome!!
+
+#IAM polocy is configured properly :clap:
+
+#Website Distribution
+#CloudFront has been configured to retrieve and distribute website files.
+
+#Great!!
+
+#Proper work with Cloud Front service:star2:
+
+#Web Browser Access
+#The website should be accessible to anyone on the Internet via a web browser. The student should have provided the CloudFront domain name URL and website-endpoint URL for the website.
+
+#Nice!!!
+
+#Your website is accessible to anyone on internet completely:clap:
+
+#Suggestion
+#To load images and css properly in your website. You have to check the path which you had specified in your index.html file properly
