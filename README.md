@@ -1,7 +1,7 @@
 # AWS_Static_Website_2020
 #Deploy Static Website on AWS
 
-#In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+#In this project, deploy a static website to AWS using S3, CloudFront, and IAM.
 
 #The files included are: 
 
